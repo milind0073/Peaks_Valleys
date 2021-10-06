@@ -1,5 +1,3 @@
-//I am, Milind joshi, 000788962. Student of software support. All the work here is mine alone. I have not copied from anyone else neither let anyone else copied from mine.
-
 package com.company;
 
 
